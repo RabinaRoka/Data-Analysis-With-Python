@@ -29,3 +29,5 @@ a[-1] corresponds to the last element, but the slicing rule in Python excludes t
 #multi indexing 
 
 if array is inconsistent it will shows that the array is objects
+
+#COMMIT FROM COLLAB NOTEBOOKS
