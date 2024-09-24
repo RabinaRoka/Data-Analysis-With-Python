@@ -19,3 +19,11 @@
 
 ****KEY TAKEWAYS
 The six phases of the data analysis process help answer business challenges, such as understanding how to improve a retirement program. Additionally, iterating on and reviewing your work throughout the data analysis process is critical for obtaining quality results. 
+
+
+##Data analysts and detectives share a similar approach to problem-solving, both relying on evidence and facts to make decisions. Data-driven decision-making is essential for analysts, but gut instinct can also play a role in identifying patterns and connections. Balancing data and gut instinct is crucial for making informed decisions, and the right mix depends on the project's goals and time constraints.
+
+##Analytical skills are qualities and characteristics associated with solving problems using facts. 
+
+
+##They are curiosity, understanding context, having technical mindset, data design, and data strategy. 
