@@ -27,3 +27,26 @@ The six phases of the data analysis process help answer business challenges, suc
 
 
 ##They are curiosity, understanding context, having technical mindset, data design, and data strategy. 
+
+
+##You and your team develop the following objectives for Mega-Pik’s EDA:
+
+Identify key factors that contribute to a movie's opening weekend success.
+
+Understand the relationship between a movie's budget and its revenue.
+
+Determine which genres are most successful.   
+
+##About Tool -Data strategy
+If Mega-Pik wants a relatively simple dashboard, you might use Google Sheets or Excel because there are only a few columns of data. On the other hand, if Mega-Pik wants a dashboard where information updates every time new data comes in, you’d need a robust tool like Tableau.
+
+@first
+Your inherent analytical skills are essential for conducting data analysis and will be even more critical when you combine them with the tools and techniques from this program. Understanding how to use these skills in business scenarios is the first step toward developing them further and using them effectively in your career. 
+
+##The five key aspects to analytical thinking. They are visualization, strategy, problem-orientation, correlation, and finally, big-picture and detail-oriented thinking. Let's start with visualization.
+
+##With so much data available, having a strategic mindset is key to staying focused and on track.
+
+##being problem-oriented. Data analysts use a problem- oriented approach in order to identify, describe, and solve problems.
+
+##A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause

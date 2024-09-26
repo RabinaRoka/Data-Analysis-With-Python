@@ -1,0 +1,32 @@
+1.Description
+The qualities and characteristics associated with solving problems using facts
+
+Skill
+Analytical skills
+
+2.Description
+The analytical skill that involves breaking processes down into smaller steps and working with them in an orderly, logical way
+
+Skill
+A technical mindset
+
+3.Description
+The analytical skill that involves how you organize information
+
+Description
+The analytical skill that involves how you organize information
+
+Skill
+Data design
+
+4.Description
+The analytical skill that has to do with how you group things into categories
+
+Skill
+Understanding context
+
+5.Description
+The analytical skill that involves managing the processes and tools used in data analysis
+
+Skill
+Data strategy
