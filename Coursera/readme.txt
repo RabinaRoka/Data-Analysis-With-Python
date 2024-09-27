@@ -50,3 +50,11 @@ Your inherent analytical skills are essential for conducting data analysis and w
 ##being problem-oriented. Data analysts use a problem- oriented approach in order to identify, describe, and solve problems.
 
 ##A simple way to wrap your head around root causes is with the process called the Five Whys. In the Five Whys you ask "why" five times to reveal the root cause
+
+
+##“What is the root cause of the problem?” A root cause is the reason why a problem occurs. So, by identifying and eliminating the root cause, data professionals can help stop that problem from occurring again. 
+
+**The five whys is a powerful tool for root cause analysis. It’s simple, effective, and a great way to collaborate with colleagues and learn about other areas of the business. Plus, the five whys can be used to analyze problems in any industry, helping organizations of all kinds identify and fix business problems. As a data professional, you can turn to the five whys whenever you feel stumped by a problem and need to approach it from a different perspective. 
+
+
+##The first story is about Google. As I mentioned a little while back, here at Google, our mission is to organize the world's information and make it universally accessible and useful.
