@@ -82,3 +82,13 @@ Destroy: Remove data from storage and delete any shared copies of the data.
 
 
 ##To sum it up, although data life cycles vary, one data management principle is universal: Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs.
+
+
+Data Analysis process
+1.This part of the ask phase helps you keep focused on the problem itself, not just its symptoms.
+
+2.Prepare :This is where data analysts collect and store data they'll use for the upcoming analysis process. 
+
+3.Process :  data analysts find and eliminate any errors and inaccuracies that can get in the way of results. This usually means cleaning data, transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data points that could skew the information. 
+
+4.Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making
