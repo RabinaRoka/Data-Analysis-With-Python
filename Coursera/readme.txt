@@ -58,3 +58,27 @@ Your inherent analytical skills are essential for conducting data analysis and w
 
 
 ##The first story is about Google. As I mentioned a little while back, here at Google, our mission is to organize the world's information and make it universally accessible and useful.
+
+
+##Data LifeCycle
+How do data analysts bring data to life? Well, it starts with the right data analysis tool. These include spreadsheets, databases, query languages, and visualization software.
+
+##The life cycle of data is plan, capture, manage, analyze, archive and destroy
+
+##As a quick note, when you maintain a database of customer information, ensuring data integrity, credibility, and privacy are all important concerns. 
+
+##data life cycle are different from data analysis process
+Plan: Decide what kind of data is needed, how it will be managed, and who will be responsible for it.
+
+Capture: Collect or bring in data from a variety of different sources.
+
+Manage: Care for and maintain the data. This includes determining how and where it is stored and the tools used to do so.
+
+Analyze: Use the data to solve problems, make decisions, and support business goals.
+
+Archive: Keep relevant data stored for long-term and future reference.
+
+Destroy: Remove data from storage and delete any shared copies of the data.
+
+
+##To sum it up, although data life cycles vary, one data management principle is universal: Govern how data is handled so that it is accurate, secure, and available to meet your organization's needs.
