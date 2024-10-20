@@ -92,3 +92,6 @@ Data Analysis process
 3.Process :  data analysts find and eliminate any errors and inaccuracies that can get in the way of results. This usually means cleaning data, transforming it into a more useful format, combining two or more datasets to make information more complete and removing outliers, which are any data points that could skew the information. 
 
 4.Analyzing the data you've collected involves using tools to transform and organize that information so that you can draw useful conclusions, make predictions, and drive informed decision-making
+
+
+Data Analysts and Data Analytics are two different things.
