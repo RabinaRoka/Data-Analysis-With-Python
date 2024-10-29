@@ -95,3 +95,5 @@ Data Analysis process
 
 
 Data Analysts and Data Analytics are two different things.
+
+Does data are powerful tools in our everyday lives?
